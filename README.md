@@ -1,6 +1,6 @@
 # Week 3 Security Assessment — Public Summary
 
-> **Public-safe edition:** The source report contains target-identifying information, patient data, authentication evidence, and database contents. Those details and the screenshots have been intentionally omitted. This README is a redacted summary, not the original report.
+> **Public-safe edition:** The source report contains target-identifying information, patient data, authentication evidence, and database contents. Sensitive details have been redacted from this README and its evidence images. This is a public-safe summary, not the original report.
 
 ## Assessment overview
 
@@ -13,7 +13,7 @@ A black-box security assessment was conducted in an authorized training context 
 - Weak protection for encrypted documents
 - Excessive information disclosure through paths, directory listings, account feedback, or error messages
 
-Specific target identifiers, exploit steps, credentials, hashes, records, and evidence images are withheld from this public version.
+Target identifiers, submitted credentials, recovered passwords, hashes, and sensitive metadata are redacted. Technical exploit steps are omitted. Portal and database screenshots labeled as synthetic are included as training evidence.
 
 ## Recommended remediation
 
