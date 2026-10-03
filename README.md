@@ -27,3 +27,32 @@ Specific target identifiers, exploit steps, credentials, hashes, records, and ev
 ## Responsible disclosure
 
 The original report is classified confidential. Keep the unredacted report and any evidence in a private, access-controlled location; share technical details only with the system owner and authorized responders.
+## Report Evidence Images
+
+The following figures are included for the assignment. The portal and database screenshots are marked as synthetic training data, as confirmed by the author. Target details, submitted credentials, recovered passwords, hashes, and sensitive metadata are redacted.
+
+### Reconnaissance
+
+![Reconnaissance evidence with target details redacted](./evidence/evidence-01-recon-redacted.png)
+
+### Login test
+
+![Login test evidence with credentials and test input redacted](./evidence/evidence-02-login-redacted.png)
+
+### Portal screenshot (synthetic records)
+
+![Portal screenshot containing synthetic training data](./evidence/evidence-03-portal-synthetic.png)
+
+### Password-cracking evidence (secrets redacted)
+
+![Password-cracking evidence with recovered secret redacted](./evidence/evidence-04-password-redacted.png)
+
+![Password-cracking evidence with recovered secret redacted](./evidence/evidence-05-password-redacted.png)
+
+### Metadata inspection
+
+![Metadata inspection with command and personal metadata redacted](./evidence/evidence-06-metadata-redacted.png)
+
+### Database screenshot (synthetic records)
+
+![Database screenshot containing synthetic training data](./evidence/evidence-07-database-synthetic.png)
